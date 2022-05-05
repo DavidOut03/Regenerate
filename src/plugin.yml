@@ -1,0 +1,9 @@
+name: Regen
+main: snapje.regenerate.Main
+version: dev
+author: snapje
+api-version: 1.13
+commands:
+  disguise:
+    aliases: [h]
+  
